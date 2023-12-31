@@ -29,4 +29,5 @@ d=d+'A'
 d= char(d)
 else # if the client enter someting wrong print this message 
 disp("you enter somthing wrong ")
-end 
+end
+# the end  
